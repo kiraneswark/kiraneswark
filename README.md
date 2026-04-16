@@ -14,7 +14,7 @@ I am a passionate learner focused on building real-world projects, improving pro
 - 📚 Practicing coding problems regularly
 - ⚡ Interested in backend development and scalable applications
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@ I am a passionate learner focused on building real-world projects, improving pro
 - Algorithms
 - CRUD Applications
 
----
+
 
 ## 📌 Featured Projects
 
@@ -51,7 +51,7 @@ Java console project with CRUD operations.
 
 🔗 Repository: https://github.com/kiraneswark/student-management-java
 
----
+
 
 ## 📈 Current Focus
 
@@ -60,19 +60,19 @@ Java console project with CRUD operations.
 - Learning advanced backend development
 - Building resume-worthy projects
 
----
+
 
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/kiraneswark
 - Email: kiraneswarkunchi@gmail.com
 
----
+
 
 ## 💡 Quote
 
 > Consistency beats talent when talent doesn’t work hard.
 
----
+
 
 ⭐ Thanks for visiting my profile!
