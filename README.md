@@ -37,7 +37,7 @@ I am a passionate learner focused on building real-world projects, improving pro
 
 
 
-## 📌 Featured Projects
+📌 Featured Projects
 
 ### 🎓 Student Management System
 Java console project with CRUD operations.
@@ -66,12 +66,6 @@ Java console project with CRUD operations.
 
 - GitHub: https://github.com/kiraneswark
 - Email: kiraneswarkunchi@gmail.com
-
-
-
-## 💡 Quote
-
-> Consistency beats talent when talent doesn’t work hard.
 
 
 
